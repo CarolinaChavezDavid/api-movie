@@ -11,7 +11,7 @@ plugins {
 
 tasks.jar {
 	manifest {
-		attributes["Main-Class"] = "com:android:apimovie:ApiMovieApplication"
+		attributes["Main-Class"] = "com.android.apimovie.ApiMovieApplication"
 	}
 }
 
